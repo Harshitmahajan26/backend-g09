@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer() {
   return (
-    <footer className="bg-gray-50 p-4">
+    <footer className="bg-gray-50 p-4 ">
       <div className="container mx-auto flex justify-center">
         <ul className="flex space-x-4 text-gray-600">
           <li><a href="#help" className="hover:text-black">Help</a></li>
